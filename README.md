@@ -2,7 +2,7 @@
 In this assignment, we will create an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels. The dataset provides insights into the presence of microbial species (OTUs) in the human navel, with some OTUs being common in more than 70% of people and others relatively rare.
 
 ## Getting Started
-1.Create a New Repository
+1. Create a New Repository
 
 - Create a new GitHub repository for this project and name it "belly-button-challenge." Do not add this Challenge to an existing repository.
 
